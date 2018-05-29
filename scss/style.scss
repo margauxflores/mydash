@@ -1,0 +1,13 @@
+/* Import Partials */
+
+@import "partials/variables";
+@import "partials/mixins";
+
+
+/* Base Styles */
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
