@@ -41,4 +41,7 @@ small, .font_small {
 *:after {
   box-sizing: border-box; }
 
+body {
+  background-color: #F2EFEA; }
+
 /*# sourceMappingURL=style.css.map */
